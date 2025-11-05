@@ -12,7 +12,6 @@ on:
         type: choice
         options:
           - X86
-          - TEST
       SOURCE:
         default: 'VIKINGYFY/immortalwrt'
         required: true
